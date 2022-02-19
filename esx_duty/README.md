@@ -1,6 +1,3 @@
-
-----------------Mads Olsen#5979----------------
-
 [ORIGINAL VERSION] - https://github.com/qalle-git/esx_duty
 
 [KRAV]
