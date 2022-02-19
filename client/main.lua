@@ -96,7 +96,6 @@ Citizen.CreateThread(function ()
               message  =  '**Du gik af Arbejde \n Tak for idag** ❌',
               sound  =  true
           })
-            sendNotification(_U('offduty'), 'error', 2500)
             Wait(1000)
           else
             exports['t-notify']:Custom({
@@ -107,7 +106,6 @@ Citizen.CreateThread(function ()
               message  =  '**Du gik på Arbejde \n God vagt** ✔️',
               sound  =  true
           })
-            sendNotification(_U('onduty'), 'success', 2500)
             Wait(1000)
           end
         else
@@ -119,7 +117,6 @@ Citizen.CreateThread(function ()
             message  =  '**Du er ikke Læge ansat** ❌',
             sound  =  true
         })
-          sendNotification(_U('notamb'), 'error', 5000)
           Wait(1000)
         end
       end
@@ -136,7 +133,6 @@ Citizen.CreateThread(function ()
               message  =  '``10-42`` \n **Du gik af Arbejde \n Tak for idag** ❌',
               sound  =  true
           })
-            sendNotification(_U('offduty'), 'error', 2500)
             Wait(1000)
           else
             exports['t-notify']:Custom({
@@ -147,7 +143,6 @@ Citizen.CreateThread(function ()
               message  =  '``10-41`` \n **Du gik på Arbejde \n God patrulje** ✔️',
               sound  =  true
           })
-            sendNotification(_U('onduty'), 'success', 2500)
             Wait(1000)
           end
         else
@@ -159,7 +154,6 @@ Citizen.CreateThread(function ()
             message  =  '**Du er ikke Politi ansat** ❌',
             sound  =  true
         })
-          sendNotification(_U('notpol'), 'error', 5000)
           Wait(1000)
           end
         end
