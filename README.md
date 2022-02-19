@@ -1,3 +1,5 @@
+[ORIGINAL-VERSION] - https://github.com/qalle-git/esx_duty
+
 [KRAV]
   
   * esx_policejob => https://github.com/ESX-Org/esx_policejob
