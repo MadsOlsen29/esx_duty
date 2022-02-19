@@ -13,4 +13,3 @@
 2) Importer jobs.sql til din database
 
 4) Start scriptet i din server.cfg
-"ensure esx_duty"
