@@ -6,7 +6,7 @@
   * esx_ambulancejob => https://github.com/ESX-Org/esx_ambulancejob
   * cd_drawtextui => https://github.com/dsheedes/cd_drawtextui
 
-[INSTALLER]
+[INSTALLATION]
 
 1) Drag scriptet hen på din server
 
