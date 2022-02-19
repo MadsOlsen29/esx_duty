@@ -5,6 +5,7 @@
   * esx_policejob => https://github.com/ESX-Org/esx_policejob
   * esx_ambulancejob => https://github.com/ESX-Org/esx_ambulancejob
   * cd_drawtextui => https://github.com/dsheedes/cd_drawtextui
+  * t-notify =>  https://github.com/TasoOneAsia/t-notify
 
 [INSTALLATION]
 
